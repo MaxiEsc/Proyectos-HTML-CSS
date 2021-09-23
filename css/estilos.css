@@ -1,0 +1,135 @@
+body{
+    background-color: wheat;
+    margin: 0%;
+}
+
+#titulo{
+    text-align: center;
+    size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+a{ 
+    color: #fff; 
+    text-decoration: none; 
+    font-size:20px; 
+    margin-left: 6px; 
+    color:white;     
+}
+a:hover {
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 6px;
+    color:white;
+}
+nav { 
+    width: 150%; 
+    height: 75px; 
+    background-color:rgba(0,0,0,0.5); 
+    line-height: 55px; 
+    padding-left: 20px;    
+    font-size: large;
+    word-spacing: 30px;
+    border: 4px solid black;
+}
+
+table{
+    border: 5px outset red;
+    background-color:darkslategray;    
+    text-align: center;
+}
+
+.estilo_tabla_filas{
+    border: 2px solid black;
+    padding-left: 5px;
+
+}
+
+.menu{
+    background-color: salmon;
+    padding: 6px;
+    border-radius: 30px;
+    border: 4px solid black;
+}
+
+#presentacion{
+    background-color:salmon;
+    color: white;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+#presentacion_2{
+    background-color:rgb(243, 29, 6);
+    color: white;
+    border: 3px solid black;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.introduccion_principal{
+    size: 20px;
+    text-size-adjust: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:lighter;
+    font-style:normal;
+}
+
+.productos_venta{
+    background-color:silver;
+    color:rgba(0,0,0,0.5);
+    border: 3px solid brown;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 30px;
+
+
+}
+.titulo_productos{
+    text-align: center;
+    size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.descripcion_productos{
+    text-align:left;
+    size: 12px;
+    font-family:sans-serif;
+    font-weight:lighter;
+    font-style:normal;
+}
+
+img { 
+    width:30%; 
+    height: auto;
+    border-radius: 30px;
+} 
+
+.precio{
+    text-align: center;
+    size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: yellow;
+    border: 3px solid black;
+    border-radius: 30px;
+}
+
+.modifica{
+    text-align: center;
+    size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:slategrey;
+    border: 3px solid black;
+    border-radius: 30px;
+    font-size: large;
+}
